@@ -1,4 +1,4 @@
-# Enterprise WAN & Static Routing Lab
+# WAN & Static Routing Lab
 
 ## Objective
 
